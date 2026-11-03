@@ -53,4 +53,4 @@
 
 ## Connect
 
-chaveev@gmail.com
+[LinkedIn](https://www.linkedin.com/in/vivienchavee/) · chaveev@gmail.com

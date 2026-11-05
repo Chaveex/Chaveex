@@ -1,6 +1,6 @@
 ﻿# Vivien Chavee
 
-**Senior Software Engineer — Java / Spring / React · Generative AI** · France · full remote
+**Senior Software Engineer — Java / Spring / React · Generative AI** · Île-de-France (hybrid) · full remote, international
 
 15 years building Java / Spring Boot and React applications on large data volumes, in international teams (Paris–Bangalore). I also build generative AI tools with the Claude API, RAG and MCP.
 
